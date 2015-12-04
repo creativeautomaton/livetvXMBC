@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.hello.world" name="Hello World" version="1.0.0" provider-name="zag">
+<addon id="livetv.sxmbc" name="Livetv.sx XMBC" version="1.0.0" provider-name="automaton">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -8,8 +8,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
+		<summary lang="en">livetv.sx XMBC Scraper </summary>
+		<description lang="en"> Links to all livetv.sx </description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
